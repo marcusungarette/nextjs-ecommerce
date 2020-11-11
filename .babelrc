@@ -1,0 +1,4 @@
+//Escrever os testes em typescript
+{
+  "presets": ["next/babel", "@babel/preset-typescript"]
+}
